@@ -1,4 +1,8 @@
 
+
+/* You need to run follow command : 
+        gcc -o tree tree.c */ 
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
